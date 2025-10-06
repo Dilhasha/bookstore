@@ -1,0 +1,8 @@
+[package]
+org = "dilhasha"
+name = "bookstore"
+version = "0.1.0"
+title = "bookstore"
+
+[build-options]
+sticky = true
